@@ -62,7 +62,6 @@ namespace UI_API.Models.Repositories.EmployeeRepository
                 result.ZipCode = empParams.ZipCode;
                 result.Phone = empParams.Phone;
                 result.Position = empParams.Position;
-                result.userImage = empParams.userImage;
                 result.CTC = empParams.CTC;
                 result.DepartmentId = empParams.DepartmentId;
 

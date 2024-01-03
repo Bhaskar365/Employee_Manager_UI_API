@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "F8vQeCDlNeRIqasihyB4S3BsJ9dVVwDoPh/hHyfIHwl+DezvnWXGFr9/aePg9a1lOXyzzIrwl6bQ7slWYjdxNQ==",
+  "dgSpecHash": "LVcMi0yzyj8FOGERMB1ZJj7RNlxr6Rts1ThKqOAOqMjHGvUQ6ob3v8XTU4xr+G1rvj+5HsD38MAm30pF2lg2gg==",
   "success": true,
-  "projectFilePath": "C:\\employeeTesting_CopyFile\\API\\UI_API\\UI_API.csproj",
+  "projectFilePath": "C:\\running_projects\\Employee-Manager-angular\\API\\UI_API\\UI_API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\bdas\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\bdas\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",

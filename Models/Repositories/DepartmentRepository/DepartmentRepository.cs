@@ -28,3 +28,4 @@ namespace UI_API.Models.Repositories.DepartmentRepository
         }
     }
 }
+

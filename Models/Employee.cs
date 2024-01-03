@@ -20,7 +20,6 @@ namespace UI_API.Models
         public string DateOfHire { get; set; } = string.Empty;
         public string CTC { get; set; } = string.Empty;
         public Department _Department { get; set; }
-        public string userImage { get; set; } = string.Empty;
         public string CreatedOn { get; set; } = string.Empty;
     }
 }
